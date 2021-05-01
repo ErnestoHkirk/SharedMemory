@@ -35,5 +35,12 @@ __Our team did not complete the extra credit.__
 ## Anything special about your submission that we should take note of: ##
 __Nothing special to note.__
 
+## How did your team contribute? ##
+-Kevin Espinoza - Collaborated on the code base
+-Ernesto Hooghkirk - Team leader, collaborated on the code base
+-Maria Medina - Completed the flow charts
+-Phillip Presuel - Collaborated on the code base
+-Mohammad Alzahem - Created the psuedocode
+
 [Return to top](#Welcome)
           
