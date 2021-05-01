@@ -36,11 +36,11 @@ __Our team did not complete the extra credit.__
 __Nothing special to note.__
 
 ## How your team contributed: ##
--Kevin Espinoza -- Collaborated on the code base
--Ernesto Hooghkirk -- Team leader, collaborated on the code base
--Maria Medina -- Completed the flow charts
--Phillip Presuel -- Collaborated on the code base
--Mohammad Alzahem -- Created the psuedocode
+    Kevin Espinoza -- Collaborated on the code base
+    Ernesto Hooghkirk -- Team leader, collaborated on the code base
+    Maria Medina -- Completed the flow charts
+    Phillip Presuel -- Collaborated on the code base
+    Mohammad Alzahem -- Created the psuedocode
 
 [Return to top](#Welcome)
           
